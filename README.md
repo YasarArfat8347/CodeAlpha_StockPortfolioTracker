@@ -76,8 +76,8 @@ This project helped me learn and practice:
 
 ## 👨‍💻 Author
 
-**VIJAYASARATHY B**
+**YASAR ARFAT I**
 
 Engineering Student
 
-GitHub: https://github.com/Vijay-1420
+GitHub: https://github.com/YasarArfat8347
